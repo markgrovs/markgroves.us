@@ -16,7 +16,7 @@ name = 'Mark Groves'
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "p"
+  contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
     # Social icons
