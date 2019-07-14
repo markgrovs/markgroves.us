@@ -1,9 +1,9 @@
-
 title = "Mark Groves"
 theme = "hello-friend-ng"
 baseurl = "/"
 languageCode = "en-us"
-
+[author]
+name = 'Mark Groves'
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -16,16 +16,34 @@ languageCode = "en-us"
   images = [""]
 
   # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  contentTypeName = "p"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
+    # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/markgrovs"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:mark@markgroves.us"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/markgrovs"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/mark-groves/"
+  
+
 
 [languages]
   [languages.en]
     title = "mark groves"
     subtitle = "human"
     keywords = ""
-    copyright = "Mark Groves"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
@@ -39,10 +57,15 @@ languageCode = "en-us"
 # And you can even create generic menu
 [menu]
   [[menu.main]]
-    identifier = "posts"
+    identifier = "posts`"
     name       = "posts"
     url        = "/posts"
   [[menu.main]]
     identifier = "about"
     name       = "about"
     url        = "/about"
+  [[menu.main]]
+    identifiier = 'test'
+    name = 'test'
+    url = '/categories'
+
