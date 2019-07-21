@@ -1,6 +1,6 @@
 title = "Mark Groves"
 theme = "hello-friend-ng"
-baseurl = "/"
+baseUrl = "https://markgroves.us"
 languageCode = "en-us"
 [author]
 name = 'Mark Groves'
