@@ -4,6 +4,8 @@ baseurl = "/"
 languageCode = "en-us"
 [author]
 name = 'Mark Groves'
+[permalinks]
+  posts = "/:year/:month/:day/:title/"
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -40,8 +42,9 @@ name = 'Mark Groves'
 
 [languages]
   [languages.en]
-    title = "mark groves"
-    subtitle = "human"
+    title = "Mark Groves"
+    subtitle = "homepage and blog"
+    homeSubtitle = "software professional, but mostly still figuring it out."
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -57,15 +60,12 @@ name = 'Mark Groves'
 # And you can even create generic menu
 [menu]
   [[menu.main]]
-    identifier = "posts`"
-    name       = "posts"
-    url        = "/posts"
-  [[menu.main]]
-    identifier = "about"
-    name       = "about"
-    url        = "/about"
-  [[menu.main]]
-    identifiier = 'test'
-    name = 'test'
-    url = '/categories'
+    identifier = "posts"
+    name       = "archive"
+    url        = "posts/"
+#  [[menu.main]]
+#    identifier = "about"
+#    name       = "about"
+#    url        = "about/"
+
 
