@@ -2,6 +2,7 @@ title = "Mark Groves"
 theme = "hello-friend-ng"
 baseUrl = "https://markgroves.us"
 languageCode = "en-us"
+enableGitInfo = true
 [author]
 name = 'Mark Groves'
 [permalinks]
@@ -11,7 +12,8 @@ name = 'Mark Groves'
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-
+  gitUrl = "https://github.com/markgrovs/markgroves.us/commit/"
+  
   # Metadata mostly used in document's head
   description = "Homepage and blog by Mark Groves"
   keywords = "homepage, blog"
