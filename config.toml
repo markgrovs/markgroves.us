@@ -3,6 +3,7 @@ theme = "hello-friend-ng"
 baseUrl = "https://markgroves.us"
 languageCode = "en-us"
 enableGitInfo = true
+googleAnalytics = "UA-4775170-1"
 [author]
 name = 'Mark Groves'
 [permalinks]
