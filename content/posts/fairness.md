@@ -2,6 +2,7 @@
 title: "Fairness"
 date: 2019-07-30T12:14:46-07:00
 draft: true
+type: "post"
 ---
 I’ve been thinking about this concept of fairness. 
 
