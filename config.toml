@@ -70,10 +70,6 @@ name = 'Mark Groves'
     identifier = "archive"
     name       = "archive"
     url        = "posts/" 
-    [[menu.main]]
-    identifier = "links"
-    name = "links"
-    url = "links/"
 #  [[menu.main]]
 #    identifier = "about"
 #    name       = "about"
