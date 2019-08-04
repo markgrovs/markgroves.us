@@ -3,11 +3,11 @@ theme = "hello-friend-ng"
 baseUrl = "https://markgroves.us"
 languageCode = "en-us"
 enableGitInfo = true
-googleAnalytics = "UA-4775170-1"
 [author]
 name = 'Mark Groves'
 [permalinks]
   posts = "/:year/:month/:day/:title/"
+  links = "/:year/:month/:day/:title/"
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -66,9 +66,9 @@ name = 'Mark Groves'
 # And you can even create generic menu
 [menu]
   [[menu.main]]
-    identifier = "posts"
+    identifier = "archive"
     name       = "archive"
-    url        = "posts/"
+    url        = "posts/" 
 #  [[menu.main]]
 #    identifier = "about"
 #    name       = "about"
