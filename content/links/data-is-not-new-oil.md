@@ -3,7 +3,7 @@ title: "Data isn't the new oil, it's the new CO2"
 date: 2019-08-06
 type: "link"
 link: "https://luminategroup.com/posts/blog/data-isnt-the-new-oil-its-the-new-co2"
-draft: true
+draft: false
 ---
 An insightful piece from [Martin Tisne][1] of the Luminate Group on how the data captured about us is not a resource an individual can manage. 
 
