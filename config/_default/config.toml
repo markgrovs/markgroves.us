@@ -3,6 +3,7 @@ theme = "hello-friend-ng"
 baseUrl = "https://markgroves.us"
 languageCode = "en-us"
 enableGitInfo = true
+
 [author]
 name = 'Mark Groves'
 [permalinks]
@@ -14,7 +15,8 @@ name = 'Mark Groves'
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   gitUrl = "https://github.com/markgrovs/markgroves.us/commit/"
-  
+  webmentionTestUrl = true
+  webmentions = true
   # Metadata mostly used in document's head
   description = "Homepage and blog by Mark Groves"
   keywords = "homepage, blog"
