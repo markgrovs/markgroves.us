@@ -1,17 +1,22 @@
 title = "Mark Groves"
 theme = "hello-friend-ng"
-baseurl = "/"
+baseUrl = "https://markgroves.us"
 languageCode = "en-us"
+enableGitInfo = true
+
 [author]
 name = 'Mark Groves'
 [permalinks]
   posts = "/:year/:month/:day/:title/"
+  links = "/:year/:month/:day/:title/"
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-
+  gitUrl = "https://github.com/markgrovs/markgroves.us/commit/"
+  webmentionTestUrl = true
+  webmentions = true
   # Metadata mostly used in document's head
   description = "Homepage and blog by Mark Groves"
   keywords = "homepage, blog"
@@ -37,6 +42,9 @@ name = 'Mark Groves'
   [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/mark-groves/"
+  [[params.social]]
+    name = "mastodon"
+    url = "https://mastodon.host/@markgroves"
   
 
 
@@ -46,7 +54,7 @@ name = 'Mark Groves'
     subtitle = "homepage and blog"
     homeSubtitle = "software professional, but mostly still figuring it out."
     keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
@@ -60,9 +68,9 @@ name = 'Mark Groves'
 # And you can even create generic menu
 [menu]
   [[menu.main]]
-    identifier = "posts"
+    identifier = "archive"
     name       = "archive"
-    url        = "posts/"
+    url        = "posts/" 
 #  [[menu.main]]
 #    identifier = "about"
 #    name       = "about"
