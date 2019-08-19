@@ -1,0 +1,24 @@
+{
+    "secret": "",
+    "source": "https://brid-gy.appspot.com/like/twitter/markgrovs/1162865348808364032/13926822",
+    "target": "https://markgroves.us/2019/08/06/data-isnt-the-new-oil-its-the-new-co2/",
+    "private": false,
+    "post": {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Foo Name",
+            "photo": "https://webmention.io/avatar/pbs.twimg.com/317772e9925ab6fe312e7ea56c8dc96cecdce6dd0fdfa9f2a52cc97fe453bdd1.jpg",
+            "url": "https://twitter.com/markgrovs"
+        },
+        "url": "https://twitter.com/markgrovs/status/1162865348808364032#favorited-by-13926822",
+        "published": null,
+        "wm-received": "2019-08-17T23:15:53Z",
+        "wm-id": 670361,
+        "wm-source": "https://brid-gy.appspot.com/like/twitter/markgrovs/1162865348808364032/13926822",
+        "wm-target": "https://markgroves.us/2019/08/06/data-isnt-the-new-oil-its-the-new-co2/",
+        "like-of": "https://markgroves.us/2019/08/06/data-isnt-the-new-oil-its-the-new-co2/",
+        "wm-property": "like-of",
+        "wm-private": false
+    }
+}
