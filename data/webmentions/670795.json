@@ -1,0 +1,27 @@
+{
+    "secret": "",
+    "source": "https://checkmention.appspot.com/content/16ca7cd6980/5146d9f513fff43c2fbc87cad055c14715ab165c/success",
+    "target": "https://markgroves.us/2019/08/06/data-isnt-the-new-oil-its-the-new-co2/",
+    "private": false,
+    "post": {
+        "type": "entry",
+        "author": {
+            "type": "card",
+            "name": "Checkmention",
+            "photo": "https://webmention.io/avatar/checkmention.appspot.com/18d522b2ddbef12a0a104dd17fbc24c15dcf0d123bc6611687e0051e13fc1559.png",
+            "url": "https://checkmention.appspot.com/"
+        },
+        "url": "https://checkmention.appspot.com/content/16ca7cd6980/5146d9f513fff43c2fbc87cad055c14715ab165c/success",
+        "published": "2019-08-19T02:55:52+00:00",
+        "wm-received": "2019-08-19T02:55:56Z",
+        "wm-id": 670795,
+        "wm-source": "https://checkmention.appspot.com/content/16ca7cd6980/5146d9f513fff43c2fbc87cad055c14715ab165c/success",
+        "wm-target": "https://markgroves.us/2019/08/06/data-isnt-the-new-oil-its-the-new-co2/",
+        "content": {
+            "text": "Congratulations! You've successfully handled a webmentioned note."
+        },
+        "in-reply-to": "https://markgroves.us/2019/08/06/data-isnt-the-new-oil-its-the-new-co2/",
+        "wm-property": "in-reply-to",
+        "wm-private": false
+    }
+}
