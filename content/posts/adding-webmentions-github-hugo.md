@@ -51,6 +51,7 @@ The [Integromat][12] service came to the rescue. Integromat is similar to Zapier
 ![webhook to JSON to GitHub](/images/Integration_Webhooks__JSON___Integromat.png)
 
 Now, each time a webmentions.io picks up a Webmention for one of my posts, Integromat will create a new file within a git branch using the wm-id from the JSON send over in the webhook.
+
 ![GitHub configuration detail](/images/Integration_Webhooks__JSON___Integromat_details.png)
 
 ### Leveraging GitHub pull requests
