@@ -1,0 +1,35 @@
+---
+label: Link Post
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Date
+- name: type
+  type: text
+  config:
+    required: false
+  label: Type
+  hidden: true
+  default: link
+- name: link
+  type: text
+  config:
+    required: false
+  label: Link
+  description: Link to Link Post
+- name: draft
+  type: boolean
+  label: Draft
+  default: true
