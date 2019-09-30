@@ -26,6 +26,12 @@ name = 'Mark Groves'
   contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
+  [params.staticman]
+    endpoint = "https://api.staticman.net/v3/entry/github/"
+    username = "markgrovs"
+    repository = "markgroves.us"
+    branch = "master"
+  
     # Social icons
   [[params.social]]
     name = "twitter"
@@ -45,6 +51,8 @@ name = 'Mark Groves'
   [[params.social]]
     name = "mastodon"
     url = "https://mastodon.host/@markgroves"
+  # [[params.staticman]]
+
   
 
 
