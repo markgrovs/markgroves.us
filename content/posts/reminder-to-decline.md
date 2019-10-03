@@ -4,7 +4,7 @@ date: 2019-10-02T19:59:30-07:00
 draft: false
 type: "post"
 ---
-There you are at that event, getting ready to do the thing you committed to days, weeks, or months ago. And you ask yourself, why did I say yes to this?
+There you are at that event, getting ready to do the thing you committed to days, weeks, or months ago. And you ask yourself, "why did I say yes to this?"
 
 This type of thing happens to me more often than I would like to admit. These could be significant events, like speaking at a conference, or small events such as having coffee with someone you barely know. There isn't anything wrong with the event itself. For me, it is the disconnect between how I feel at the time that I agree to do this activity and when the time comes to deliver on the commitment.
 
