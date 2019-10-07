@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/markgroves
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://markgroves.us
+  * I am markgroves (https://keybase.io/markgroves) on keybase.
+  * I have a public key ASAxlCKbpGM8vR01QnmHsRiUUsJJMHE4EuQV_A_-MBvVjQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101747310f1fb32ef94290fd7f06d974c53c6ff02cc5680f694bc0d9a82e83c30950a",
+      "host": "keybase.io",
+      "kid": "01203194229ba4633cbd1d35427987b1189452c24930713812e415fc0ffe301bd58d0a",
+      "uid": "da164694d53b08f1191fac5b48161619",
+      "username": "markgroves"
+    },
+    "merkle_root": {
+      "ctime": 1570410609,
+      "hash": "f979e91aafaafdfd7f8932c6ce1ea98ca7d5896565b9d94811d7c717d93e5d1c08e30a0b0154a578c83e9a96ae0a5c567158a778bf38b43262c1968187bc221f",
+      "hash_meta": "fca1c9e95bd2b6981ae0ebf07a5dd630c07aea6b73ad89c1bf5f8a4aba66e1e4",
+      "seqno": 7888955
+    },
+    "service": {
+      "entropy": "Ov4RXgAXPyI+V0FFrxxh2aON",
+      "hostname": "markgroves.us",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1570410622,
+  "expire_in": 504576000,
+  "prev": "473c394b2cd35116aaf2de4db3646f29464a4c4c1138b406c8713fbb60678553",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMZQim6RjPL0dNUJ5h7EYlFLCSTBxOBLkFfwP/jAb1Y0Kp3BheWxvYWTESpcCCcQgRzw5SyzTURaq8t5Ns2RvKUZKTEwROLQGyHE/u2BnhVPEIHTSu1a8Xgd7v+20KP8k7F1dzaAzbiIiSXggz7/N6HMNAgHCo3NpZ8RA4aT+QH1A2vo9ZhVokfgW+FkDvcOA6A++yLxwWZv4qvdCKxj1ogtzz/nxjUqUs7NbSEj8tl8cu0vJNgwE3wkrCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPH4o9lvlYoxDBJ8b+WU83xcMDjE9b/g8ws3MTwaZZm4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/markgroves
+
+==================================================================
