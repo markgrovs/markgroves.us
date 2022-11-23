@@ -44,7 +44,8 @@ name = 'Mark Groves'
     url  = "https://www.linkedin.com/in/mark-groves/"
   [[params.social]]
     name = "mastodon"
-    url = "https://mastodon.host/@markgroves"
+    url = "https://masto.ai/@markgroves"
+    rel = "me"
   
 
 
