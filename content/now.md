@@ -1,31 +1,31 @@
 ---
 title: "/now"
-date: 2019-08-24 19:17:31
+date: 2024-01-13 15:28
 type: "now"
 ---
+
 ## Location
 
-Still loving living in Seattle, the family and I have been here for almost 14 years now.
+- Moved to Pagosa Springs, Colorado back at the end of 2021 to be in the mountains.
 
 ## Work
 
-- Leading the product and engineering teams for [DocuSign's](https://docusign.com) platform.
+- None, retired from full-time work mid-2023. Starting to do a bit of advising startups.
 
 ## Latest Interests
 
-I have been getting interested in the [IndieWeb](https://indiewebcamp.org) movement. My continued interest in privacy and data ownership caused me to learn more about what is going on in the IndieWeb community.
+- Since retiring, I have been exploring a few different interests. Home Automation, Off-Roading, Hiking, Fitness, Woodworking. 
 
 ## Learning
 
-- Building out my site using [Hugo](https://gohugo.io)
-- Stoicism and philosophy in general
-  
+- Reading a ton right now, more to say later. 
+
 ## Fitness
 
-- Focused on high-intensity bodyweight and dumbbell workouts
-  
+- My fitness level is improving. Being able to work out for as long as I want each day has been great. 
+
 ## Hobby
 
-- Picked up playing guitar again after almost 30 years.
+- It's all a hobby right now. 
 
 _Inspired by [Derek Sivers](https://sivers.org/) and [nownownow](https://nownownow.com)_
