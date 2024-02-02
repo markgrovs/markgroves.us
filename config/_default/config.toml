@@ -7,12 +7,12 @@ enableGitInfo = true
 [markup]
   defaultMarkdownHandler = 'goldmark'
 
-[author]
-name = 'Mark Groves'
 [permalinks]
   posts = "/:year/:month/:day/:title/"
   links = "/:year/:month/:day/:title/"
 [params]
+  [[author]]
+    name = 'Mark Groves'
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
