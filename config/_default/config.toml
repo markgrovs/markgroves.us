@@ -50,7 +50,9 @@ name = 'Mark Groves'
     url = "https://masto.ai/@markgroves"
     rel = "me"
   
-
+[outputs]
+home = ["html", "rss"]
+section = ["html", "rss"]
 
 [languages]
   [languages.en]
