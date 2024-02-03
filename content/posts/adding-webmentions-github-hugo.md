@@ -47,12 +47,11 @@ webmetion.io > webhook > create data file > pull request > merge > build > deplo
 The [Integromat][12] service came to the rescue. Integromat is similar to Zapier or IFTTT, but, it supports creating a webhook endpoint, and also has an integration to GitHub that supports creating files within your git repository.
 
 3. Parse Webmention JSON within Integromat and save a file to /data/webmention folder.
-
-![webhook to JSON to GitHub](/images/Integration_Webhooks__JSON___Integromat.png)
+![webhook to JSON to GitHub](assets/Integration_Webhooks__JSON___Integromat.png)
 
 Now, each time a webmentions.io picks up a Webmention for one of my posts, Integromat will create a new file within a git branch using the wm-id from the JSON send over in the webhook.
 
-![GitHub configuration detail](/images/Integration_Webhooks__JSON___Integromat_details.png)
+![](assets/Integration_Webhooks__JSON___Integromat_details.png)
 
 ### Leveraging GitHub pull requests
 
