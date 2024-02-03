@@ -11,8 +11,6 @@ enableGitInfo = true
   posts = "/:year/:month/:day/:title/"
   links = "/:year/:month/:day/:title/"
 [params]
-  [[author]]
-    name = 'Mark Groves'
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
@@ -71,6 +69,8 @@ enableGitInfo = true
     name = "mastodon"
     url = "https://masto.ai/@markgroves"
     rel = "me"
+  [[author]]
+    name = 'Mark Groves'
   
 [outputs]
 home = ["html", "rss"]
