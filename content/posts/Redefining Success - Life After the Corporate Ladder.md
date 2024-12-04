@@ -1,7 +1,7 @@
 ---
 title: "Redefining Success: Life After the Corporate Ladder"
 date: 2024-12-03
-draft: true
+draft: false
 type: post
 tags:
   - career
