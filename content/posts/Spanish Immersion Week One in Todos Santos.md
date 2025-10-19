@@ -9,7 +9,7 @@ tags:
   - learning
   - travel
 toc: false
-
+description: "Week one of Spanish immersion in Todos Santos taught me that language learning isn't a goal—it's a lifelong practice. Here's what I'm learning about myself."
 ---
 This first week of Spanish immersion was in some ways harder than I expected, but overall the first week felt productive. In many ways, the class was like going back to school. I haven't had an instructional education experience in many years. Sure, there were the inevitable corporate training exercises, but those are nothing like sitting in a class with a teacher. We're doing a two-week class at [Hablando Mexicano](https://www.hablandomexicano.com) in Todos Santos, Baja Sur. Three hours per day, five days a week. Each day after class, I was mentally exhausted. I guess at 53, I'm just not used to learning at this level of focus.
 
