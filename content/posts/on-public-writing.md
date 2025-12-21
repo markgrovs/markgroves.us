@@ -1,13 +1,16 @@
 ---
-title: "Sunday Dec 21st 2025, 6:41 AM"
+title: "On Public Writing"
 date: 2025-12-21
 draft: true
 type: "post"
+description: "Why I am stepping away from the safety of conversation and learning to think in public."
 tags: 
+  - writing
+  - thinking
+  - learning
+  - meta
 toc: false
 ---
-
-Sunday Dec 21st 2025, 6:41 AM
 
 Learning how to write publicly has been one of my greater challenges. I've been resistant to putting my ideas together in a form that is difficult to take back or tune once the thought is out in the open. I don't think I have ever been good at it. Even in forums on topics I have a perspective on, I tend to hold back. It's not that I don't know how the internet works. If anything I know it too well to understand that no one ever won an argument on the internet.
 
