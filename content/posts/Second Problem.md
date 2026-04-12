@@ -1,25 +1,61 @@
-The Second Problem
-Two days ago I was on a boat off the coast of Belize. A group of us went out to a key — did some snorkeling, saw some incredible fish, spent the afternoon on the beach with cold beers and BBQ. I wasn't on my phone. I was trying to be present. And I think I was.
-But here's the thing: I can't describe it. Not in any way that would help you understand what it was actually like to be there. I can give you the itinerary — boat, snorkeling, beach, beers — but that's a skeleton. There's no flesh on it. No color of the water, no weight of the heat, no detail that would make you feel like you were there. The experience passed through me and left almost nothing I can return to.
-That's not a phone problem. I didn't have my phone out. That's something else.
-There's no shortage of writing about the damage of smartphones and endless scrolling. What gets less attention is what you discover after you put the phone down.
-We've all seen it — the restaurant experiment, everyone at the table on their phones, the vacation photos taken through a screen for an audience that isn't there. We know this. We've been told to be more present. And some of us have actually tried. We've deleted the apps, blocked the websites, reclaimed the hours. I did all of that. I'm retired now, preparing for close to two years on a motorcycle, and I knew that if I didn't change something I'd ride through the whole thing and come back with nothing real to show for it.
-So I cleared the escape hatches. And I thought that was the work.
+---
+title: "The Second Problem"
+date: 2026-04-12
+draft: true
+type: post
+description: "Putting down the phone is Stage One. The harder problem — learning to actually hold what you experience — is Stage Two. I found that out on a boat in Belize."
+tags:
+  - attention
+  - presence
+  - writing
+  - travel
+  - pan-american
+  - motorcycle
+toc: false
+---
+
+Two days ago I was on a boat off the coast of Belize. A group of us went out to a caye. Did some snorkeling, saw some incredible fish, spent the afternoon on the beach with cold beers and BBQ. I wasn't on my phone. I was trying to be present. And I feel like I was.
+
+But here's the thing: I can't describe it. 
+
+Not in any way that would help you understand what it was actually like to be there. I can give you the itinerary, boat ride, snorkeling, beach, beers, but that's a skeleton. There's no flesh on it. No color of the water, no weight of the heat, no detail that would make you feel like you were there. The experience passed through me and left almost nothing I can return to.
+
+That's not a phone problem. I didn't have my phone out. It's something else.
+
+There's no shortage of writing about the damage of smartphones and endless scrolling. What gets less attention is what you discover after you put the phone away.
+
+I deleted the apps, blocked the news sites, stopped reaching for the phone when things got quiet. And I thought that was the work.
+
 It wasn't.
-Here's something I've known about myself for a long time, though I didn't always have words for it. My mother used to tell a story about taking me to an amusement park when I was five or six. We rented one of those paddle boats on a lake inside the park. She asked me, while we were out on the water, if I was actually enjoying myself. I said yes. And I meant it. But she couldn't tell. She said she could never figure out when I was actually enjoying something, because I never showed it.
-I wasn't hiding anything. That was just my natural state. Experience arrived quietly, without fanfare, without the emotional signal that says pay attention, remember this. It's been that way my whole life.
-I only tell that story because it matters to what I'm trying to figure out. The Belize boat trip wasn't a failure of presence. It was a failure of something older and harder to name — the ability to hold what you notice before it disappears.
-I started reading Ted Simon's Jupiter's Travels while researching the places I'd be passing through in Central and South America. Ted set out in 1973 on a Triumph Tiger 100 and spent four years riding through 45 countries and over 126,000 kilometers. The ambition alone is staggering. But what stopped me wasn't the scale of the journey. It was the quality of his attention.
+
+Here's something I've known about myself for a long time, though I didn't always have words to describe it. My mother used to tell a story about taking me to an amusement park when I was five or six. We rented one of those paddle boats on a lake inside the park. While we were out on the water, she asked if I was actually enjoying myself. I said yes. And I meant it. But she couldn't tell. She said she could never figure out when I was actually enjoying something, because I never showed it.
+
+I wasn't hiding anything. That was just my natural state. Experiences arrived quietly, without fanfare, without the emotional signal that says pay attention, remember this. 
+It's been that way my whole life.
+
+I only tell that story because it is related to what I'm trying to figure out. The Belize boat trip wasn't a failure of presence. It was a failure of something older and harder to solve. The ability to hold what you notice before it disappears.
+
+I recently started reading Ted Simon's book __Jupiter's Travels__ while researching the places I'd be passing through in Central and South America. Ted set out in 1973 on a Triumph Tiger 100 and spent four years riding through 45 countries and over 126k kilometers. The ambition alone is staggering. But what stopped me wasn't the scale of the journey. It was the quality of his attention.
+
 There's a passage where Ted is somewhere in Africa, frustrated by a delay, focused on getting to Cape Town in time to catch a boat. He writes: "At the time it seemed to me that what I wanted was to have my problem solved quickly and to get on my way... What happened on the way, who I met, all that was incidental. I had not quite realised that the interruptions were the journey."
-That line landed hard. Not because it's a clever observation about travel. Because it named something I recognized in myself — the destination mindset, the idea that the experience is the thing you planned, and everything else is noise to move through. Ted eventually learned to see the interruptions differently. He didn't just notice more. He held what he noticed. He turned it over. His writing is the evidence of that.
-Reading him, I realized I don't have that practice. And I'm not sure I've ever had it.
+
+That line landed hard. Not only because it's a clever observation about travel. Because it named something I recognized in myself, the destination mindset. The idea that the experience is the thing you planned, and everything else is noise to move through. Ted eventually learned to see the interruptions differently. He didn't just notice more. He held what he noticed. His writing is the evidence of that.
+
+Reading him, I realized I don't have the awareness or the practice to really notice. 
 So here's what I've come to understand, and it's a two-stage problem.
+
 Stage one is the phone. The distraction, the escape hatch, the reflex to reach for something else when the present moment gets quiet or uncomfortable. Most of the writing about attention stops here. Put the phone down. Be present. Done.
-But stage one is just clearing the ground. It's necessary, and I'm not dismissing it — I spent real effort getting there. But it's the prerequisite, not the destination.
-Stage two is harder and quieter. It's the practice of noticing and holding experience — catching the texture of a moment before it passes, retaining something you can actually return to. I don't have that practice. I was on a boat in Belize, present by my own account, and I came back with nothing I could describe. Not because I was distracted. Because I've never learned to hold what I see.
-I'm not sure what that practice looks like yet. I know writing and photography are part of it — forcing functions that require you to have actually noticed something before you can put it down. But I suspect there's a step before that, something more basic, that I haven't figured out yet.
-Ted Simon's example is completely aspirational for me. I have no illusions I'll write like him. But I also don't know that I can't develop something closer to the way he moved through the world — not waiting for experience to announce itself, but going out to meet it. I've never tried. My default mode has always been to let experience pass through quietly. And for most of my life, that was fine.
-But I'm heading into two years of material I don't want to lose. I don't want to ride through 45 countries and come back with an itinerary.
-I put the phone down, removed the distractions — but the next level, the ability to notice and actually hold my experience in the moment, still isn't there yet.
+
+But stage one is just clearing the ground. It's necessary, and I'm not dismissing it. I spent real effort getting to this point. But it's the prerequisite, not the destination.
+
+Stage two is harder and quieter. It's the practice of noticing and holding experience, catching the texture of a moment before it passes, retaining something you can actually return to. I don't have that practice. I was on a boat in Belize, present by my own account, and I came back with nothing I could describe. Not because I was distracted. Because I've never learned to hold what I see.
+
+So what now? 
+
+I know writing and photography are part of it. You can't describe something you didn't notice. But I suspect there's a step before that. Something more basic. Like learning to pause within an experience instead of just moving through it. The exact process is forign to me. 
+
+The Ted Simon's example is completely aspirational for me. I have no illusions I'll write like him. But I hope that I can develop the ability to the moved through the world like he did. Not waiting for experience to announce itself, but going out to meet it. I've never tried. My default mode has always been to let experience pass through quietly. And for most of my life, that was fine.
+
+I put the phone down, removed the distractions, But the next level, the ability to notice and actually hold my experience in the moment, still isn't there yet.
+
 The work continues.
-This is part of an ongoing series documenting the preparation for and eventual execution of a long-distance motorcycle journey through Central and South America.
