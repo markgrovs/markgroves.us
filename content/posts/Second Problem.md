@@ -1,9 +1,6 @@
 ---
-title: "The Second Problem"
+title: Presence Isn't Enough
 date: 2026-04-12
-draft: true
-type: post
-description: "Putting down the phone is Stage One. The harder problem — learning to actually hold what you experience — is Stage Two. I found that out on a boat in Belize."
 tags:
   - attention
   - presence
@@ -11,6 +8,11 @@ tags:
   - travel
   - pan-american
   - motorcycle
+draft: "false"
+type: post
+description: Putting down the phone is Stage One. The harder problem — learning
+  to actually hold what you experience — is Stage Two. I found that out on a
+  boat in Belize.
 toc: false
 ---
 
