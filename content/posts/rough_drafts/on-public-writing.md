@@ -2,7 +2,7 @@
 title: "On Public Writing"
 date: 2025-12-21
 draft: true
-type: "post"
+type: post
 description: "Why I am stepping away from the safety of conversation and learning to think in public."
 tags: 
   - writing
