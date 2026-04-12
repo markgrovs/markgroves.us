@@ -74,8 +74,8 @@ enableGitInfo = true
     name = "mastodon"
     url = "https://masto.ai/@markgroves"
     rel = "me"
-  [[author]]
-    name = 'Mark Groves'
+  [params.author]
+  name = "Mark Groves"
   
 [outputs]
 home = ["html", "rss"]
@@ -113,5 +113,5 @@ section = ["html", "rss"]
 [[module.mounts]]
 source = 'content'
 target = 'content'
-excludeFiles = ['templates/**']
+files = ['! templates/**']
 
