@@ -2,6 +2,7 @@
 title: Mark Groves' Resume
 permalink: cv/
 layout: cv
+excludeFromRss: true
 ---
 
 # Mark Groves
