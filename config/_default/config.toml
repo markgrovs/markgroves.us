@@ -55,25 +55,15 @@ enableGitInfo = true
   # Default theme "light" or "dark"
   defaultTheme = "dark"
     # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/markgrovs"
 
   [[params.social]]
     name = "email"
     url  = "mailto:mark@markgroves.us"
 
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/markgrovs"
+ [[params.social]]
+    name = "rss"
+    url = "https://markgroves.us/index.xml"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/mark-groves/"
-  [[params.social]]
-    name = "mastodon"
-    url = "https://masto.ai/@markgroves"
-    rel = "me"
   [params.author]
   name = "Mark Groves"
   
