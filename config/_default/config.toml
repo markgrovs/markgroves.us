@@ -3,6 +3,7 @@ theme = "hello-friend-ng"
 baseUrl = "https://markgroves.us"
 languageCode = "en-us"
 enableGitInfo = true
+enableRobotsTXT = true
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
@@ -24,8 +25,8 @@ enableGitInfo = true
   webmentionTestUrl = true
   webmentions = true
   # Metadata mostly used in document's head
-  description = "Homepage and blog by Mark Groves"
-  keywords = "homepage, blog"
+  description = "Personal site of Mark Groves — retired software industry leader, formerly at DocuSign, SAP Concur, Microsoft, and Splunk. Based in Pagosa Springs, CO."
+  keywords = "Mark Groves, software engineering, product management, DocuSign, SAP Concur, Microsoft, Splunk, Pagosa Springs, retired, engineering leadership"
   images = [""]
 
   # Enable theme toggle
@@ -98,6 +99,10 @@ section = ["html", "rss"]
     identifier = "/now"
     name       = "/now"
     url        = "now/"
+  [[menu.main]]
+    identifier = "cv"
+    name       = "cv"
+    url        = "cv/"
 
 [module]
 [[module.mounts]]

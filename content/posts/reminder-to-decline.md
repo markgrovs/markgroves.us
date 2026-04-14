@@ -3,6 +3,7 @@ title: "Reminder to decline"
 date: 2019-10-02T19:59:30-07:00
 draft: false
 type: "post"
+description: "A reflection on the gap between saying yes and showing up — and why learning to decline is a skill worth developing."
 ---
 There you are at that event, getting ready to do the thing you committed to days, weeks, or months ago. And you ask yourself, "why did I say yes to this?"
 

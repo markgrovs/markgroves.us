@@ -5,6 +5,7 @@ draft: false
 type: "post"
 tags: ['meta','indieweb', 'hugo']
 toc: false
+description: "How I added Webmention support to a Hugo static site using GitHub Actions, webmention.io, and the IndieWeb ecosystem."
 ---
 
 Over the last several weeks, I decided to build my site from the ground up using [Hugo][1], a static site generator. My main goal in rebuilding my website is to get back into writing while having a place on the web that is my own. 

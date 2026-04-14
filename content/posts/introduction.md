@@ -3,6 +3,7 @@ title: An Introduction
 date: 2019-07-27
 draft: false
 type: "post"
+description: "An introduction to Mark Groves — software industry veteran, writer, and the story behind this site."
 ---
 I've decided to restart my web site and to get into a regular writing habit. I can't say that I have been great at keeping this practice. I can't promise my posts will be well thought out. In some sense that the lack of clarity is my main goal. My goal is to learn more about how I think about a topic by writing publicly.
 
