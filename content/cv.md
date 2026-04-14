@@ -18,8 +18,7 @@ Twenty-eight years of software industry experience within dynamic leading edge s
 ## Current
 
 `2023-`
-__Hushh.AI__
-- Product Advisor 
+__Retired__
 
 `2023-`
 *__Stealth Startup__*
