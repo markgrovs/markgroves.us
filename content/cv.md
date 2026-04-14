@@ -3,6 +3,29 @@ title: Mark Groves' Resume
 permalink: cv/
 layout: cv
 excludeFromRss: true
+
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  "name": "Mark Groves"
+  "alternateName": "Mark Groves (Software Engineer)"
+  "url": "https://markgroves.us/cv/"
+  "description": "Retired software industry professional with 28 years of experience specializing in software product and engineering management, architectural design, and agile processes. Former Group VP at DocuSign, VP Product Management at SAP Concur, Principal Group Program Manager at Microsoft, and Sr. Director at Splunk. B.S. in Electrical Engineering from the University of Pittsburgh; Certified Scrum Master. Holds multiple US software patents."
+  "jobTitle": "Retired"
+  "alumniOf":
+    "@type": "EducationalOrganization"
+    "name": "University of Pittsburgh"
+  "hasCredential":
+    "@type": "EducationalOccupationalCredential"
+    "name": "Certified Scrum Master"
+    "credentialCategory": "Certification"
+  "knowsAbout":
+    - "Software architecture"
+    - "Microservices"
+    - "Agile software development"
+    - "Engineering management"
+    - "Product development"
+    - "SaaS platforms"
 ---
 
 # Mark Groves

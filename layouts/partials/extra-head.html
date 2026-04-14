@@ -5,3 +5,9 @@
 <script data-goatcounter="https://markgroves.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+{{- if .Params.jsonld }}
+<script type="application/ld+json">
+{{ .Params.jsonld | jsonify | safeJS }}
+</script>
+{{- end }}

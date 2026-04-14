@@ -1,13 +1,15 @@
 ---
 title: "/now"
+description: "What Mark Groves is up to now — retired software industry leader, formerly at DocuSign, SAP Concur, and Microsoft, living in Pagosa Springs, CO."
 date: 2025-04-06
 type: "now"
 ---
 
-## Location
+## Who I am
 
-- Currently traveling in Baja California, Mexico for a month-long trip
-- Home base remains Pagosa Springs, Colorado, where we've been since late 2021
+I'm Mark Groves — a retired software industry professional with 28 years of experience leading product and engineering teams at companies like DocuSign, SAP Concur, Microsoft, and Splunk. After a long career building platforms, managing teams, and navigating the chaos of fast-moving tech companies, I stepped away from full-time work in mid-2023.
+
+I'm now based in Pagosa Springs, Colorado, and currently traveling through Baja California, Mexico for a month-long slow travel trip with my truck camper.
 
 ## Work
 
@@ -34,7 +36,7 @@ type: "now"
 ## Current Focus
 
 - Practicing mindfulness and being present during travel
-- Adapting to a less structured lifestyle after corporate career
+- Adapting to a less structured lifestyle after a long corporate career
 - Finding balance between planning for the future and enjoying the moment
 - Adjusting financial plans in response to market volatility
 
