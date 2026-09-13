@@ -11,3 +11,5 @@ toc: false
 # Test Post
 
 This is a test post to see how this works using Obsidian to publish. 
+
+New updates
