@@ -1,52 +1,38 @@
 # markgroves.us
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c78e0951-b7fb-4ba8-8ff6-3a2d4414ea7a/deploy-status)](https://app.netlify.com/sites/markgroves/deploys)
+Mark Groves’s Hugo site. Hugo Extended 0.166.0 is pinned in `netlify.toml` and used for local validation.
 
-Personal blog built with [Hugo](https://gohugo.io/) and deployed on [Netlify](https://www.netlify.com/).
+## Theme and local preview
 
-## Prerequisites
+Commonplace is the default theme and a separate Git submodule under `themes/commonplace/`, sourced from [its GitHub repository](https://github.com/markgrovs/commonplace). The original `hello-friend-ng` theme remains available for rollback. After a fresh clone, run `git submodule update --init --recursive`.
 
-- [Hugo](https://gohugo.io/installation/) (Extended version)
-- [Git](https://git-scm.com/)
-
-## Local Development
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/markgroves.us.git
-cd markgroves.us
-```
-
-2. Start the Hugo development server:
-```bash
+```sh
 hugo server -D
+hugo --environment production
+hugo --environment legacy
 ```
 
-The site will be available at http://localhost:1313/
+The default configuration uses `commonplace-overrides/` for site templates, leaving the legacy root `layouts/` in place. To roll back, build with `hugo --environment legacy`, or set `theme = "hello-friend-ng"` and `layoutDir = "layouts"` in `config/_default/config.toml`.
 
-## Creating New Content
+Theme changes are committed inside `themes/commonplace/`, pushed to its own remote, and then recorded in the blog with `git add themes/commonplace`. Blog configuration, content, archetypes, and `commonplace-overrides/` stay in the blog repository.
 
-```bash
-hugo new content/posts/my-new-post.md
+## Writing and privacy
+
+Only deliberately approved public excerpts belong in this repository. Netlify previews include drafts and future-dated content, so `draft: true` is an editorial marker, not privacy protection. Keep private journal originals and private attachments outside the repository.
+
+Create one public log entry per date under `content/log/YYYY-MM-DD/index.md` or `content/log/YYYY-MM-DD.md`, and set its front matter date to match. A date-only Log title is treated as an untitled note in IndieWeb markup; a meaningful title is marked as its name. Create new essays as descriptive page bundles under `content/essays/`. Both archetypes start as drafts. Existing articles remain in `content/posts/`, and automated publishing to that directory can continue; Essays lists both older posts and new essays. Legacy images under `content/posts/assets/` retain their existing URLs. For new photos, place the files in the page bundle, supply meaningful alt text, and add an optional Markdown image title for a caption. Existing photographs with empty alt text need author review.
+
+## Validation
+
+```sh
+hugo --environment legacy --destination public/validation/baseline
+hugo --environment production --cleanDestinationDir --destination public/validation/commonplace
+python3 scripts/check_site.py public/validation/commonplace --baseline public/validation/baseline
+python3 scripts/check_indieweb.py public/validation/commonplace
+hugo --buildFuture --buildDrafts --destination public/validation/commonplace-preview
+python3 scripts/check_indieweb.py public/validation/commonplace-preview
 ```
 
-## Deployment
+The checkers compare generated routes, feed GUIDs, local references, and each writing type’s IndieWeb markup. The legacy and new builds leave generated files under ignored `public/`.
 
-This site is automatically deployed to Netlify when changes are pushed to the main branch.
-
-## Project Structure
-
-```
-.
-├── archetypes/
-├── content/
-├── layouts/
-├── static/
-├── themes/
-├── config.toml
-└── README.md
-```
-
-## License
-
-[MIT License](LICENSE)
+The `/admin/` interface and Bridgy redirects remain in the blog repository. Public pages in Commonplace omit the old GoatCounter and Netlify Identity scripts; verify admin invitation and recovery callbacks after the theme change.

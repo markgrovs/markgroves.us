@@ -1,9 +1,10 @@
 title = "Mark Groves"
-theme = "hello-friend-ng"
+theme = "commonplace"
 baseUrl = "https://markgroves.us"
 languageCode = "en-us"
 enableGitInfo = true
 enableRobotsTXT = true
+layoutDir = "commonplace-overrides"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
@@ -17,6 +18,7 @@ enableRobotsTXT = true
   posts = "/:year/:month/:day/:title/"
   links = "/:year/:month/:day/:title/"
 [params]
+  welcome = "A public notebook by Mark Groves. Recent notes and longer essays live here."
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
@@ -109,4 +111,3 @@ section = ["html", "rss"]
 source = 'content'
 target = 'content'
 files = ['! templates/**']
-
