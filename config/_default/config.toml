@@ -18,6 +18,8 @@ layoutDir = "commonplace-overrides"
   posts = "/:year/:month/:day/:title/"
   links = "/:year/:month/:day/:title/"
 [params]
+  # Production subscriptions stay on this origin when previews override baseURL.
+  productionBaseURL = "https://markgroves.us"
   welcome = "A public notebook by Mark Groves. Recent notes and longer essays live here."
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"

@@ -18,6 +18,8 @@ Theme changes are committed inside `themes/commonplace/`, pushed to its own remo
 
 Author names, the footer email URL, the commit-link base URL, and IndieAuth/Webmention discovery endpoints live in `config/_default/config.toml`. Hugo adds a revision link to tracked writing when Git history is available; new untracked drafts do not show one.
 
+The Follow page subscribes to production even in local and deploy previews. Its `rss-subscribe` shortcode combines `params.productionBaseURL` with the homepage RSS output's actual path. Keep this production base URL aligned with `baseURL` if the site's address changes; preview `--baseURL` overrides only normal site navigation and feed discovery.
+
 ## Writing and privacy
 
 Only deliberately approved public excerpts belong in this repository. Netlify previews include drafts and future-dated content, so `draft: true` is an editorial marker, not privacy protection. Keep private journal originals and private attachments outside the repository.
