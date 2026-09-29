@@ -70,7 +70,7 @@ def main():
     root = args.site.resolve()
     posts = feed_urls(root, "posts")
     links = feed_urls(root, "links")
-    logs = feed_urls(root, "log")
+    logs = feed_urls(root, "logs")
     essays = feed_urls(root, "essays") - posts
     types = {"post": posts, "link": links, "log": logs, "essay": essays}
     failures = []

@@ -93,7 +93,7 @@ def main():
                     errors.append(f"missing fragment: {path.relative_to(site)} {reference}")
 
     feeds = {name: feed_guids(site, f"{name}/index.xml")
-             for name in ("posts", "links", "essays", "log")}
+             for name in ("posts", "links", "essays", "logs")}
     root_feed = feed_guids(site, "index.xml")
     if len(root_feed) != len(set(root_feed)):
         errors.append("duplicate root feed GUID")
@@ -107,7 +107,7 @@ def main():
     for guid in feeds["posts"]:
         if guid not in feeds["essays"]:
             errors.append(f"legacy post absent from Essays: {guid}")
-    if set(feeds["posts"]) & set(feeds["log"]):
+    if set(feeds["posts"]) & set(feeds["logs"]):
         errors.append("Log contains a legacy post")
 
     print(f"Checked {len(rendered)} HTML pages and {len(root_feed)} root feed items")
