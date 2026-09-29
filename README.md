@@ -24,6 +24,8 @@ Only deliberately approved public excerpts belong in this repository. Netlify pr
 
 Create one public log entry per date with `hugo new content --kind log logs/YYYY-MM-DD/index.md`, or write `content/logs/YYYY-MM-DD.md`, and set its front matter date to match. A date-only Log title is treated as an untitled note in IndieWeb markup; a meaningful title is marked as its name. Create new essays with `hugo new content --kind essay essays/my-essay/index.md`. The singular `log.md` and `essay.md` archetypes set `type: log` and `type: essay` and start as drafts; `--kind` selects them for the plural content folders. Section `_index.md` files describe the lists and do not need an entry type. Existing articles remain in `content/posts/`, and automated publishing to that directory can continue; Essays lists both older posts and new essays. Legacy images under `content/posts/assets/` retain their existing URLs. For new photos, place the files in the page bundle, supply meaningful alt text, and add an optional Markdown image title for a caption. Existing photographs with empty alt text need author review.
 
+Create a link post with `hugo new content --kind link links/my-reference.md`. Keep its existing `type: link` and set `link` to the original source URL, then add your observations in Markdown. The Links archive and RSS keep older references; the homepage's Recent links section includes only published entries from the preceding 30 days at build time. New automatic link publishing would need to write this format to `content/links/`; the external publisher's mapping is not maintained in this repository.
+
 ## Validation
 
 ```sh

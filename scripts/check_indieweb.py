@@ -97,7 +97,7 @@ def main():
                         failures.append(f"{url}: invalid publication date {date}")
             if kind in ("post", "essay", "link") and not entry["named_heading"]:
                 failures.append(f"{url}: missing named entry heading")
-            if kind == "link" and (len(entry["bookmarks"]) != 1 or not entry["bookmarks"][0]):
+            if kind == "link" and (len(set(entry["bookmarks"])) != 1 or not all(entry["bookmarks"])):
                 failures.append(f"{url}: missing bookmark target")
             if kind != "link" and entry["bookmarks"]:
                 failures.append(f"{url}: unexpected bookmark target")
