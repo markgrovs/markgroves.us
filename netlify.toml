@@ -1,15 +1,20 @@
 [context.production.environment]
-  HUGO_VERSION = "0.159.0"
+  HUGO_VERSION = "0.166.0"
 
 [context.deploy-preview]
-  command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
+  command = "hugo -b $DEPLOY_PRIME_URL --buildFuture "
   [context.deploy-preview.environment]
-    HUGO_VERSION = "0.159.0"
+    HUGO_VERSION = "0.166.0"
 
 [context.branch-deploy]
-  command = "hugo -b $DEPLOY_PRIME_URL --buildFuture"
+  command = "hugo -b $DEPLOY_PRIME_URL --buildFuture --buildDrafts"
   [context.branch-deploy.environment]
-    HUGO_VERSION = "0.159.0"
+    HUGO_VERSION = "0.166.0"
+
+[[redirects]]
+  from = "/log/*"
+  to = "/logs/:splat"
+  status = 301
 
 [[redirects]]
   from = "/.well-known/host-meta*"

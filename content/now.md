@@ -20,7 +20,7 @@ I'm now based in Pagosa Springs, Colorado, but travel a good bit.
 
 - Exploring slow travel with our truck camper setup
 - Building out a Honda CRF 300L Rally to do the Pan American in 2027
-- Learning fly fishing and paddleboarding in Baja
+- Learning to ride motorcycle offroad in prep for Central and South America
 - Planning home improvement projects (garage/shop construction) for when we return
 
 ## Learning
