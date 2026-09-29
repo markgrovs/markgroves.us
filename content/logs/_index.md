@@ -1,6 +1,6 @@
 ---
-title: Log
+title: Logs
 description: Short public notes from Mark Groves.
 aliases:
-  - /log/page/1/
+  - /logs/page/1/
 ---
