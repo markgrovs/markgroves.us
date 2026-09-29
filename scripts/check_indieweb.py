@@ -110,8 +110,10 @@ def main():
             failures.append(f"/{route}/: ordinary page incorrectly marked h-entry")
 
     home = (root / "index.html").read_text(encoding="utf-8")
-    if home.count('class="site-header h-card"') != 1 or home.count('class="home h-card"'):
+    if home.count('class="site-footer h-card"') != 1 or home.count('class="site-header h-card"'):
         failures.append("/: expected one representative site h-card")
+    if 'class="u-email" href="mailto:' not in home:
+        failures.append("/: site h-card is missing its visible email link")
 
     print("Checked", ", ".join(f"{len(urls)} {kind}s" for kind, urls in types.items()))
     if failures:

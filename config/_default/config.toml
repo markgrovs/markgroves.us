@@ -68,8 +68,17 @@ layoutDir = "commonplace-overrides"
     url = "https://markgroves.us/index.xml"
 
   [params.author]
-  name = "Mark Groves"
-  
+    first_name = "Mark"
+    last_name = "Groves"
+    full_name = "Mark Groves"
+    name = "Mark Groves" # Used by the legacy theme.
+
+  [params.indieweb]
+    authorization_endpoint = "https://indieauth.com/auth"
+    token_endpoint = "https://tokens.indieauth.com/token"
+    webmention_endpoint = "https://webmention.io/markgroves.us/webmention"
+    pingback_endpoint = "https://webmention.io/markgroves.us/xmlrpc"
+
 [outputs]
 home = ["html", "rss"]
 section = ["html", "rss"]

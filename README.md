@@ -16,6 +16,8 @@ The default configuration uses `commonplace-overrides/` for site templates, leav
 
 Theme changes are committed inside `themes/commonplace/`, pushed to its own remote, and then recorded in the blog with `git add themes/commonplace`. Blog configuration, content, archetypes, and `commonplace-overrides/` stay in the blog repository.
 
+Author names, the footer email URL, the commit-link base URL, and IndieAuth/Webmention discovery endpoints live in `config/_default/config.toml`. Hugo adds a revision link to tracked writing when Git history is available; new untracked drafts do not show one.
+
 ## Writing and privacy
 
 Only deliberately approved public excerpts belong in this repository. Netlify previews include drafts and future-dated content, so `draft: true` is an editorial marker, not privacy protection. Keep private journal originals and private attachments outside the repository.
