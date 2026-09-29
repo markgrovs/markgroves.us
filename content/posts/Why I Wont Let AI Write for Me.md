@@ -1,0 +1,35 @@
+---
+title: "Why I Won't Let AI Write for Me"
+createdAt: '2025-12-23T15:18:07.838Z'
+creationDate: 2025-12-23 08:18
+modificationDate: 2026-01-24 06:55
+tags: []
+date: '2025-12-22'
+researchNote: []
+type: post
+draft: true
+---
+
+The tech news is dominated by stories about AI. Everything is AI now. I've enjoyed using LLMs in several parts of my life, from replacing my workout app to helping me with my home automation system. I'm using it as a learning partner for several new hobbies and goals I have in my post-retirement world, even playing with the tools to help tune my writing skills.
+
+After using LLMs on a near-daily basis, I can see the benefit today and have been able to notice the rapid progression. There is no doubt that this technology will change human life. Every tool we create has an impact on the creators. Will it bring about some utopian future that the brilliant proponents promote? Or will it kill us all like the AI doomers expound? I don't know. As with any major technological change, the predictions are usually wrong. And I don't see much value in pushing the extremes. Those calling for slowing down, or completely stopping, are ignoring the most fundamental traits of humans. We don't change anything until it is deemed a clear and present danger. And given the benefit of the technology, it is even less likely that we will take the doom seriously until it is possibly too late.
+
+What I'm curious about now is how these tools will change us. Every tool creates a reaction in the user. When you look at these products as they currently are, as tools that we still have the power to control and direct, then we need to ask: how does the act of using them change us?
+
+In my experience over the last couple of years, I've seen some evolution in my own use cases for LLMs.
+
+At first came the GPT-3.5 era. It was mostly about having the tool generate some half-baked ideas. It was entertaining, but like a monkey smoking a cigarette, not all that useful. But when the tools started to gain the ability to search the web, they became more useful. It shifted a good percentage of web searches from standard search engines to getting the answer directly. It saved the time it would previously take to read several articles to try to get the answer to your question.
+
+This is the first point when I noticed the tool changing me. It changed the pattern that had been ingrained since search engines really came on the scene. And in many ways, the way search engines changed the content on the web made using something that could extract the knowledge you were looking for without ads and affiliate links better.
+
+A more recent point in my use of LLMs made me pause and start to think more about how the tools change us. In my goal to use the act of writing to develop my thinking on topics of interest, I employed these tools to help me understand why I keep coming back to this idea that I want to write publicly but have continually resisted, having points of interest and motivation only to have it predictably fall off. As I explored my resistance, I investigated the times when I don't have a problem sharing my thoughts and opinions on a topic. When someone asks me a question, I can formulate a point of view in real time based on my experience. So I thought using the latest-gen LLM to be my interviewer would help me pull out my thoughts on a topic of interest. And it worked great. Playing my simulated sparring partner, it helped round out my ideas, challenged my assumptions, and made me question my initial thoughts, without the messy emotional baggage that is common when doing the same thing with a human counterpart.
+
+That change is the first thing to reflect on. Clearly, there are benefits of simulator tools, if that's what you could call this. We use simulators all the time to train our pilots, soldiers. The question in this instance, since the LLMs don't provide the emotional baggage that many human interactions provide, is whether we will start to bias toward those relationships. We are clearly seeing significant upticks in the AI companion space. I would say we have been on this path for a while now, ever more willing to welcome a buffer to direct human interaction. Which may seem surprising, since we by nature are very social creatures. It is what made us successful. Long before AI, we replaced calling with texting, in-person engagement with social media, and Zoom calls. And as an introvert, I have to say, yes, I'll have more of that.
+
+When was the last time you called someone before you texted them? Somehow we ended up here. From my generation, you went and knocked on your friends' doors to see if they could hang out. To my kids' generation, when everything was a prearranged scheduled play date driven by endless text groups. So to me, this is the next step in this evolution, where we welcome these barriers to human interactions.
+
+The next step in my use of the AI helper for writing is what really gave me pause and made me introspect about what I was doing. The one thing AI is always willing to do is try to be even more helpful. So after it concluded its interview process, it offered to write a first draft of a post on the topic we had just discussed. And unlike the smoking monkey of the GPT-3.5 era, the latest model was able to generate something that was hands down better than what I could have written. That was clear. The draw to copy and paste into my blog engine and be done was strong.
+
+But this is where I needed to stop and question what I was doing. I told myself the reason I wanted to start writing was to develop how I think. I learn to better communicate. While the ideas captured in the post were mine, the struggle to articulate my point was removed. The LLM was able to easily do it, with an outcome that likely would have been a better post for some possible readers. But if I had posted the AI output, I would have known I cheated the rep. So I reprogrammed the AI prompt to never attempt to write for me.
+
+This isn't some statement on whether it is right or wrong to produce AI slop. The question I have is whether, if more people start to question the use of these tools to take over the creative human aspect, it will usher in a resurgence of human-crafted creativity and handcrafted products. We have seen the seeds of this already. The Etsy's of the world serve our need to elevate the crafts person. As more and more of what was once required for humans to create gets automated by this next evolution of the loom, will we see people direct their energy toward more directly creative pursuits? Or in my case, with the act of writing, attempt to get back to the core purpose and resist the easy path. There are real concerns that this next technological evolution will continue to drive us away from what makes us human toward some post-human existence. Or it could bring us back to rediscover what makes us human.
