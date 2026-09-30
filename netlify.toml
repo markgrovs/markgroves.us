@@ -27,3 +27,12 @@
   to = "https://fed.brid.gy/.well-known/webfinger"
   status = 302
   force = true
+
+[[headers]]
+for = "/*"
+[headers.values]
+  Content-Security-Policy = "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self'; form-action 'self'; frame-ancestors 'none'; base-uri 'self'"
+  X-Frame-Options = "DENY"
+  X-Content-Type-Options = "nosniff"
+  Referrer-Policy = "strict-origin-when-cross-origin"
+  Permissions-Policy = "geolocation=(), microphone=(), camera=()"

@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+
+# Block AI/ML training scrapers
+# Respects robots.txt compliance by OpenAI, Anthropic, and others
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: facebookexternalhit
+Disallow: /
+
+# Explicitly allow search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://markgroves.us/sitemap.xml

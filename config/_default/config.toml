@@ -3,7 +3,7 @@ theme = "commonplace"
 baseUrl = "https://markgroves.us"
 languageCode = "en-us"
 enableGitInfo = true
-enableRobotsTXT = true
+enableRobotsTXT = false
 layoutDir = "commonplace-overrides"
 
 [markup]
