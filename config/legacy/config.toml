@@ -1,3 +1,0 @@
-# Use `hugo --environment legacy` to build with the original theme and layouts.
-theme = "hello-friend-ng"
-layoutDir = "layouts"

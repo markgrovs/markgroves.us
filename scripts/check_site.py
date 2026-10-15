@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check a Commonplace production build against a legacy Hugo build."""
+"""Check a Commonplace production build, optionally against a previous build."""
 
 import argparse
 from html.parser import HTMLParser
@@ -51,7 +51,7 @@ def feed_guids(root, feed):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("site", type=Path, help="new production output directory")
-    parser.add_argument("--baseline", type=Path, help="legacy production output directory")
+    parser.add_argument("--baseline", type=Path, help="previous production output directory")
     args = parser.parse_args()
     site = args.site.resolve()
     errors = []
